@@ -1,7 +1,8 @@
 {
  "headers":{
     "*/":{
-        "X-Author":"costacosta"
+        "X-Author":"costacosta",
+        "Access-Control-Allow-Origin":"*"
     }
  } 
 }
